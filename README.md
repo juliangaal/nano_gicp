@@ -1,5 +1,5 @@
 # Nano-GICP: Fast-GICP + Nano-FLANN
-+ This branch is for being used as a module in other packages
++ This branch is based on [engcang/nano\_gicp](https://github.com/engcang/nano_gicp) and makes it compatible with ros2/colcon 
 + Nano-GICP is from [here, official repo of DLO or DLIO](https://github.com/vectr-ucla/direct_lidar_odometry)
 
 ### Dependencies
